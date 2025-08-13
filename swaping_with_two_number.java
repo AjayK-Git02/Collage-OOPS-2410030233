@@ -4,7 +4,7 @@ public class swaping_with_two_number {
 
   public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
-      System.out.println("WELCOME TO SWAPPING NUMBER !!");
+            System.out.println("WELCOME TO SWAPPING NUMBER !!");
             System.out.print("Enter first number (a): ");
             int a = scanner.nextInt();
 
@@ -22,5 +22,6 @@ public class swaping_with_two_number {
             scanner.close();
         }
     }
+
 
 
